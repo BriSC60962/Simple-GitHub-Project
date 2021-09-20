@@ -13,6 +13,10 @@ namespace Simple_GitHub_Project
             Console.WriteLine("Hello World!");
 
             Console.ReadKey(true);
+
+            Console.WriteLine("I am creating a simple visual studio project");
+
+            Console.ReadKey(true);
         }
     }
 }
