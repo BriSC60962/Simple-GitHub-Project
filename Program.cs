@@ -25,6 +25,11 @@ namespace Simple_GitHub_Project
             Console.WriteLine("to test and setup my professional GitHub.");
             Console.WriteLine();
             Console.ReadKey(true);
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("It ain't much, but it's honest work.");
+            Console.ReadKey(true);
+
+
 
 
         }
