@@ -17,6 +17,12 @@ namespace Simple_GitHub_Project
             Console.WriteLine("I am creating a simple visual studio project");
 
             Console.ReadKey(true);
+
+            Console.WriteLine("It's supposed to have five commits");
+
+            Console.ReadKey(true);
+
+
         }
     }
 }
