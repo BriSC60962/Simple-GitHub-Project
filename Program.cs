@@ -11,15 +11,19 @@ namespace Simple_GitHub_Project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-
+            Console.WriteLine();
             Console.ReadKey(true);
 
             Console.WriteLine("I am creating a simple visual studio project");
-
+            Console.WriteLine();
             Console.ReadKey(true);
 
-            Console.WriteLine("It's supposed to have five commits");
+            Console.WriteLine("It's supposed to have five commits,");
+            Console.WriteLine();
+            Console.ReadKey(true);
 
+            Console.WriteLine("to test and setup my professional GitHub.");
+            Console.WriteLine();
             Console.ReadKey(true);
 
 
